@@ -4,11 +4,11 @@
 ### Repository Organization
 | Item | Description |
 | ----------- | ----------- |
-| Campaign_Summaries.md | Contains summaries of campaign operations, including the conditions and outcomes, problems, challenges, and solutions, and a detailed list of actions and notes. |
+| CampaignSummaries.md | Contains summaries of campaign operations, including the conditions and outcomes, problems, challenges, and solutions, and a detailed list of actions and notes. |
 | CS folder | Contains the files that are described and linked in Campaign_Summaries.md. |
-| Process_Instrumentation_Diagrams.md | Contains illustrations of the equipment used for operations. |
+| ProcessInstrumentationDiagrams.md | Contains illustrations of the equipment used for operations. |
 | PID folder | Contains the files that are described and linked in Process_Instrumentation_Diagrams.md. |
-| Preventative_Maintenance.md | Contains tables used to track the maintenance routines of process engineers. |
+| PreventativeMaintenance.md | Contains tables used to track the maintenance routines of process engineers. |
 | PM folder | Contains the files that are described and linked in Preventative_Maintenance.md. |
 
 ### Summary
