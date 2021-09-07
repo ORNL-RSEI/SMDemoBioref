@@ -18,7 +18,7 @@ Key information for each campaign are condensed into the following sections:
 Note: Significant downtime was often experienced between campaigns owing to the small number of employees and/or delays in equipment repairs.  
 
 ### Table of Contents
-[Run 1](#run-1)  |  [Run 2](#run-2)  |  [Run 3](#run-3)  |  [Run 4](#run-4)  |  [Run 5](#run-5)  |  [Run 6a](#run-6a)  |  [Run 6b](#run-6b)  |  [Run 7](#run-7)  |  [Run 8](#run-8)  |  [Run 9](#run-9)  |  [Run 10](#run-10)  |  [Run 11](#run-11)  |  [Run 12a](#run-12a)  |  [Run 12b](#run-12b)  |  [Run 12c](#run-12c)  |  [Run 13](#run-13)  |  [Run 14a](#run-14a)  |  [Run 14b](#run-14b)  |  [Run 15](#run-15)  |  [Run 16](#run-16)  |  [Run 17](#run-17)  |  [Run 18a](#run-18b)  |  [Run 18b](#run-18b)  
+[Run 1](#run-1)  |  [Run 2](#run-2)  |  [Run 3](#run-3)  |  [Run 4](#run-4)  |  [Run 5](#run-5)  |  [Run 6a](#run-6a)  |  [Run 6b](#run-6b)  |  [Run 8](#run-8)  |  [Run 9](#run-9)  |  [Run 10](#run-10)  |  [Run 11](#run-11)  |  [Run 12a](#run-12a)  |  [Run 12b](#run-12b)  |  [Run 12c](#run-12c)  |  [Run 13](#run-13)  |  [Run 14a](#run-14a)  |  [Run 14b](#run-14b)  |  [Run 15](#run-15)  |  [Run 16](#run-16)  |  [Run 17](#run-17)  |  [Run 18](#run-18)  |  [Run 19](#run-19)  
 
 #### Run 1
 Problems & Resolutions: [C01_PR.pdf](CS/PR/C01_PR.pdf)  
