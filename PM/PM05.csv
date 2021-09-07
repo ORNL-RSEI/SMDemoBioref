@@ -1,0 +1,15 @@
+Date,Engineer,Fulton,Lattner,Blowdown,Feedwater_Tank_Flush,Boiler_Additive_Level,Pressure_Relief_Valve_Test,High_Pressure_Limit_Test,Low_Level_Alarm_Test,Level_Sensor_Cleanse,Salt_Level,Electrical_Connection_Tightness,Pipe_Connection_Tightness,Pump_Hydraulic_Oil,Boiler_Inspection_Done,Notes
+2015-01-15,JS,NA,Yes,Yes,No,Low,NA,NA,No,No,Good,Good,Good,Exchanged,NA,The Fulton does not have an additive hooked up | Waiting for new additive and pump to arrive | Accidentally exchanged Lattner pump oil with Zurn Milton Roy Oil | The pump ran for a minute or two before it was realized to be the wrong oil | It was then replaced with a standard 10W-30
+2015-01-26,JS,NA,Yes,Yes,Yes,Good,NA,NA,No,No,See notes,No,No,Exchanged again to ensure there was no contamination,NA,It seemed like the water softner was doing a regen cycle when the power went out but once power was regained the softner did not complete the cycle | I manually started a regen cycle and once it was complete the salt tank was empty like normal
+2015-01-11,JS,NA,Yes,Yes,No,Good,NA,NA,No,No,Good,No,No,NA,NA,NA
+2015-01-13,KW,NA,Yes,Yes,No,Good,NA,NA,No,No,Good,No,No,NA,NA,NA
+2015-01-23,JS,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,Yes,Yes,NA,NA,NA
+2015-01-26,JS,NA,Yes,NA,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,NA
+2015-01-11,KL,Yes,Yes,No,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,NA
+2015-01-25,PW,NA,Yes,Yes,NA,Low,NA,NA,NA,NA,Ok,NA,NA,NA,NA,NA
+2015-04-02,JS,NA,Yes,Yes,Yes,New container installed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015-04-06,JS,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015-05-05,JS,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,Yes,Yes,NA,NA,NA
+2015-05-28,JS,NA,Yes,NA,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,NA
+2015-06-08,JS,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Done,Need to add sections in the PM to test pressure relief valve and low water level and high pressure alarm
+2015-07-07,KW,Yes,Yes,Yes,NA,Good,Good,Good,Good,No,Good,No,No,No,Done 2015-07-15,NA
