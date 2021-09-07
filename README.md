@@ -4,12 +4,12 @@
 ### Repository Organization
 | Item | Description |
 | ----------- | ----------- |
-| CampaignSummaries.md | Contains summaries of campaign operations, including the conditions and outcomes, problems, challenges, and solutions, and a detailed list of actions and notes. |
-| CS folder | Contains the files that are described and linked in Campaign_Summaries.md. |
-| ProcessInstrumentationDiagrams.md | Contains illustrations of the equipment used for operations. |
-| PID folder | Contains the files that are described and linked in Process_Instrumentation_Diagrams.md. |
-| PreventativeMaintenance.md | Contains tables used to track the maintenance routines of process engineers. |
-| PM folder | Contains the files that are described and linked in Preventative_Maintenance.md. |
+| [CampaignSummaries.md](CampaignSummaries.md) | Contains summaries of campaign operations, including the conditions and outcomes, problems, challenges, and solutions, and a detailed list of actions and notes. |
+| [CS folder](CS) | Contains the files that are described and linked in Campaign_Summaries.md. |
+| [ProcessInstrumentationDiagrams.md](ProcessInstrumentationDiagrams.md) | Contains illustrations of the equipment used for operations. |
+| [PID folder](PID) | Contains the files that are described and linked in Process_Instrumentation_Diagrams.md. |
+| [PreventativeMaintenance.md](PreventativeMaintenance.md) | Contains tables used to track the maintenance routines of process engineers. |
+| [PM folder](PM) | Contains the files that are described and linked in Preventative_Maintenance.md. |
 
 ### Summary
 The University of Florida's (UF) Stan Mayfield Demonstration Biorefinery (hereafter, the Biorefinery), funded in-part by a $20 million appropriation from the Florida Legislature and a $5.4 million grant from the United States Department of Agriculture & Department of Energy, allowed UF researchers to study the most effective ways to convert sugarcane and sorghum agricultural residues into cellulosic ethanol, with the aim of reducing the United State's dependence on imported fossil fuels, helping consumers save money, preserving natural resources, and mitigating climate change.
