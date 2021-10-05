@@ -10,6 +10,7 @@
 | [PID folder](PID) | Contains the files that are described and linked in ProcessInstrumentationDiagrams.md. |
 | [PreventativeMaintenance.md](PreventativeMaintenance.md) | Contains tables used to track the maintenance routines of process engineers. |
 | [PM folder](PM) | Contains the files that are described and linked in PreventativeMaintenance.md. |
+| [SOP folder](SOP) | Contains the files that are described and linked in StandardOperatingPractices.md. |
 
 ### Summary
 The University of Florida's (UF) Stan Mayfield Demonstration Biorefinery (hereafter, the Biorefinery), funded in-part by a $20 million appropriation from the Florida Legislature and a $5.4 million grant from the United States Department of Agriculture & Department of Energy, allowed UF researchers to study the most effective ways to convert sugarcane and sorghum agricultural residues into cellulosic ethanol, with the aim of reducing the United State's dependence on imported fossil fuels, helping consumers save money, preserving natural resources, and mitigating climate change.
