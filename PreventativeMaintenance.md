@@ -1,9 +1,11 @@
 # Preventative Maintenance - Biomass Pretreatment
+
 ## University of Florida's Stan Mayfield Demonstration Biorefinery
 
-The Biorefinery's process engineers were tasked with preventing disruptions in operation and preserving worker safety through diligent surveying and maintenance of the various equipment within the thermochemical pretreatment system. The biomass preatreatment system was a highly complex series of equipment that operated under high pressure with corrosive chemicals, thereby making it prone to malfunction. A series of data tracking tools were developed to be routinely utilized by the process engineers. The data provided herein are not entirely complete, and empty cells are denoted by NA. 
+The Biorefinery's process engineers were tasked with preventing disruptions in operation and preserving worker safety through diligent surveying and maintenance of the various equipment within the thermochemical pretreatment system. The biomass preatreatment system was a highly complex series of equipment that operated under high pressure with corrosive chemicals, thereby making it prone to malfunction. A series of data tracking tools were developed to be routinely utilized by the process engineers. The data provided herein are not entirely complete, and empty cells are denoted by NA.
 
 ### Table of Contents
+
 [Start Up Summary](#start-up-summary)  
 [Steady State Shift Summary](#steady-state-shift-summary)  
 [Steady State Gear Drive Temperature](#steady-state-gear-drive-temperature)  
@@ -15,6 +17,7 @@ The Biorefinery's process engineers were tasked with preventing disruptions in o
 [Grease Addition](#grease-addition)
 
 #### Start Up Summary  
+
 Process engineers would record qualitative and quantitative data during the start-up sequence of the pretreatment system while the Biorefinery was in campaign opearation. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
 Data: [PM01.csv](PM/PM01.csv)  
 
@@ -57,6 +60,7 @@ Data: [PM01.csv](PM/PM01.csv)
 | 34 | Notes | *Desc.* |
 
 #### End of Shift Summary
+
 Process engineers would record qualitative and quantitative data at the end of their shifts while the Biorefinery was in campaign opearation. The data were used by the next shift to understand the status of operation. In addition, the data were helpful in writing Campaign Summaries once the Campaign was complete. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
 Data: [PM02.csv](PM/PM02.csv)  
 
@@ -100,6 +104,7 @@ Data: [PM02.csv](PM/PM02.csv)
 1 Should all be below 150.  
 
 #### Steady State Gear Drive Temperature
+
 Process engineers would use IR thermometer guns to record temperatures of the auger gear drive casings in the preteatment system to ensure drives were not overheating. Only one record is provided, and all temperatures are provided in degrees Fahrenheit.  
 Data: [PM03.csv](PM/PM03.csv)  
 
@@ -123,6 +128,7 @@ Data: [PM03.csv](PM/PM03.csv)
 | 15 | Reversing_Conveyor | 126 |
 
 #### General Maintenance
+
 Process engineers would perform and log general maintenance activities on the pretreatment system as needed. This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
 Data: [PM04.csv](PM/PM04.csv)  
 
@@ -134,7 +140,7 @@ Data: [PM04.csv](PM/PM04.csv)
 | 3 | Bolt_Tightness {1} | *Desc.* |
 | 4 | Clean_Seal_Filter_Screens {2} | Done |
 | 5 | Dismantle_&_Clean_Screw_Press {3} | Done; *Desc.* |
-| 6 | Clean_Reversing _Conveyor_in_Forward_Direction {4} | Yes; No; *Desc.* |
+| 6 | Clean_Reversing_Conveyor_in_Forward_Direction {4} | Yes; No; *Desc.* |
 | 7 | Hydrolyzer_Non-Driven_End_Tolerance {1,5} | *Desc.* |
 | 8 | Belts_Checked {1} | Done; *Desc.* |
 | 9 | Plug_Screw_Inspection {3} | *Desc.* |
@@ -147,6 +153,7 @@ Data: [PM04.csv](PM/PM04.csv)
 5 Tolerance should not exceed 0.06" radially. Torque on bolts should be 100 lb-ft.  
 
 #### Boiler Maintenance
+
 Process engineers would routinely perform and log maintenace activities on the Biorefinery's boilers (Fulton & Lattner). This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
 Data: [PM05.csv](PM/PM05.csv)  
 
@@ -178,6 +185,7 @@ Data: [PM05.csv](PM/PM05.csv)
 4 Once per year by contractor.  
 
 #### Blowtank Ball Valves
+
 Process engineers would perform and log maintenance activities on the two automated, 8 inch ball vales that were used to discharge pretreated biomass from the pressurized hydrolyzer to the blow tank. This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
 Data: [PM06.csv](PM/PM06.csv)  
 
@@ -193,6 +201,7 @@ Data: [PM06.csv](PM/PM06.csv)
 1 As needed.  
 
 #### Blowtank Knife Gates
+
 Process engineers would perform and log maintenance activities on the two automated, 8 inch knife gate vales (alternates to the ball valves) that were used to discharge pretreated biomass from the pressurized hydrolyzer to the blow tank. This preventative maintenance was performed when the Biorefinery was not in campaign operation. The data columns specify which of the knife gates are applicable. The top knife gate is abbreviated TKG and the bottom knife gate is abbreviated BKG.  
 Data: [PM07.csv](PM/PM07.csv)  
 
@@ -218,6 +227,7 @@ Data: [PM07.csv](PM/PM07.csv)
 1 Indicate if a new seal was installed.
 
 #### Gear Drive Oil
+
 Process engineers would test and/or exchange oil in the auger gear drives as needed. This preventative maintenance was performed when the Biorefinery was not in campaign operation. It was recommended that oil be checked every 500 hours of operation, and oil replaced every 2,500 hours with mineral lubricant and every 10,000 hours with 460 synthetic. Gear drive oil exchange information is provided here and in the file [PM08.5.csv](PM/PM08.5.csv).  
 Data: [PM08.csv](PM/PM08.csv)  
 
@@ -257,6 +267,7 @@ Data: [PM08.csv](PM/PM08.csv)
 | Reversing Conveyor  | Falk | 460 Synthetic | 1.1 | 8.327 | NA |
 
 #### Grease Addition
+
 Process engineers would apply Thermaplex multipurpose grease (Lithium Complex) to auger bearings as needed.  
 Data: [PM09.csv](PM/PM09.csv)  
 

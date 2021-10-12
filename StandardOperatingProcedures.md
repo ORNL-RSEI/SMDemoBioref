@@ -1,4 +1,5 @@
 # Standard Operating Procedures
+
 ## University of Florida's Stan Mayfield Demonstration Biorefinery
 
 Standard Operating Procedures (SOPs) show .  
@@ -91,5 +92,5 @@ Standard Operating Procedures (SOPs) show .
 * Biomass Liquefaction [SOP-BP012.pdf](SOP/SOP-BP012.pdf)
 * Control Ethanol Fermentation [SOP-BP014.pdf](SOP/SOP-BP014.pdf)
 * Small Boiler Operating Procedure [SOP-OP001.pdf](SOP/SOP-OP001.pdf)
-* Short Term Biomass Storage [SOP-LOI7A .pdf](SOP/SOP-LOI7A .pdf)
+* Short Term Biomass Storage [SOP-LOI7A.pdf](SOP/SOP-LOI7A.pdf)
 * Medium Term Biomass Storage [SOP-LOI7B.pdf](SOP/SOP-LOI7B.pdf)
