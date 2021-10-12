@@ -1,0 +1,31 @@
+Biomass_Number,Date,Biomass_Type,Source,Average_Bulk_Density_from_Pile_ g/L,Average_DW_Raw_Biomass_from_Pile,Approximate_Truckoad_Amount_Tons_WW,Average_Metso_Flowrate_DW_lbs/hr,Pre-steam_Live_Bottom_Speed_When_Flow_Rate_Test_Conducted,Time_Metso_Can_Run_at_Full_Speed,Notes
+10006,40603,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10007,40744,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10008,39861,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10009,40916,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10010,41138,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10011,41289,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10012,41323,Sugarcane Bagasse,Florida Crystals,NA,NA,NA,NA,NA,NA,NA
+10013,41555,Sorghum Bagasse,Delta Biorenewables ,NA,NA,5,NA,NA,NA,NA
+10014,41563,Sugarcane Bagasse,Florida Crystals,NA,35-40%,1 truck load,NA,NA,NA,Wet degraded and contained many sticks
+10015,41614,Sugarcane Bagasse,Florida Crystals,97.6,0.5,1 truck load,NA,NA,NA,Clean and dry biomass | Not clumpy
+10016,41666,Sugarcane Bagasse,Florida Crystals,115.67,0.55,1 truck load,NA,NA,NA,Clean and dry biomass | Clumpy
+10017,41698,Sugarcane Bagasse,Florida Crystals,148.48,0.57,1 truck load,NA,NA,NA,Clean and dry biomass | More clumpy than last batch
+10017-2,41786,Sugarcane Bagasse,Florida Crystals,73.83333333,0.74,1 truck load,NA,NA,NA,After the shutdown and installation of new plug screw | Biomass dried out some
+10018,41800,Sugarcane Bagasse,Florida Crystals,97.77,0.65,1 truck load,NA,NA,NA,Clearn and dry biomass | Not clumpy
+10019,41820,Sugarcane Bagasse,Florida Crystals,113.83,0.51,21.12,216,1,99.73333333,Clearn and dry biomass | Clumpy
+10021,41862,Sugarcane Bagasse,Florida Crystals,130,0.5055,18.33,210,1,88.24585714,We used almost the entire batch of biomass for Campaign 3
+10022,41884,Sugarcane Bagasse,Florida Crystals,162.11,0.548244,22.02,210,1,114.9745989,Clumpy
+10023,41904,Sugarcane Bagasse,Florida Crystals,233.4952,0.39488,21.05,208,1,79.92523077,Wetter than usual flow rate at 85% pre-steam bin
+10024,41935,Sugarcane Bagasse,Florida Crystals,133.13,0.4698,17.55,177,0.9,93.16372881,Clean and dry biomass | Did not move through system well
+10025,41957,Sugarcane Bagasse,Florida Crystals,117,0.36094,16.96,190,1,64.43728842,Clean and dry | Very similar look and feel as the previous batch
+10026,41982,Sugarcane Bagasse,Florida Crystals,130.46,0.52,17.66,190,1,96.66526316,Clean and dry | Very similar look and feel as the previous batch
+10027,42030,Sugarcane Bagasse,Florida Crystals,81,0.5945,17.66,158,0.8,132.8970886,Clean dry and finely milled
+10028,42058,Sugarcane Bagasse,Florida Crystals,120.48,0.49038,17.45,152,0.8,112.5938289,A little wetter than the last batch
+10029,42093,Sugarcane Bagasse,Florida Crystals,138.227,0.51,12.89,134,0.8,226.6074627,Full of debris | Pieces of wood hosing plastic metal etc
+10030,42101,Sugarcane Bagasse,Florida Crystals,163.656,0.49,16.88,NA,NA,NA,Looks good | 10030 and 10029 ended up being mixed
+10031,42123,Sugarcane Bagasse,Florida Crystals,145.8,0.44,16.9,180,0.8,82.62222222,NA
+10031,42143,Sugarcane Bagasse,Florida Crystals,145.8,0.44,NA,120,0.6,NA,NA
+10032,42206,Sugarcane Bagasse,Florida Crystals,177.7,0.4617,20.54,252,1,75.26442857,Full of debris-wood metal rags plastic and cement rocks
+10033,42262,Sugarcane Bagasse,Florida Crystals,163.7,0.5043,18.27,160.6,0.8,114.7392403,Really wer material day before the flow rate
+10034,42310,Sugarcane Bagasse,Florida Crystals,116,0.5131,12.43,156,0.8,81.76708974,NA
