@@ -13,6 +13,7 @@ DESCRIPTION.
 | [CommissioningFT9_Schedule.pdf](Other/CommissioningFT9_Schedule.pdf) | Contains . |
 | [Construction_Schedule.pdf](Other/Construction_Schedule.pdf) | Contains . |
 | [ControlsDescription.pdf](Other/ControlsDescription.pdf) | Contains . |
+| [DesignCriteria.pdf](Other/DesignCriteria.pdf) | Contains . |
 | [Emergency_Procedure.pdf](Other/Emergency_Procedure.pdf) | Contains . |
 | [Fermentation_Schedule.pdf](Other/Fermentation_Schedule.pdf) | Contains . |
 | [FirstBreak_Procedure.pdf](Other/FirstBreak_Procedure.pdf) | Contains . |
