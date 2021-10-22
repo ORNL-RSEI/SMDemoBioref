@@ -21,7 +21,6 @@ DESCRIPTION.
 | [HotWork_Permit.pdf](Other/HotWork_Permit.pdf) | Contains . |
 | [LockOutTagOut_Procedure.pdf](Other/LockOutTagOut_Procedure.pdf) | Contains . |
 | [PretreatmentExperimental_DataSheet.pdf](Other/PretreatmentExperimental_DataSheet.pdf) | Contains . |
-| [Pretreatment_Template.xlsx](Other/Pretreatment_Template.xlsx) | Contains . |
 | [SafeWork_Permit.pdf](Other/SafeWork_Permit.pdf) | Contains . |
 | [SafeWork_Plan.pdf](Other/SafeWork_Plan.pdf) | Contains . |
 | [StartUp_Plan.pdf](Other/StartUp_Plan.pdf) | Contains . |
