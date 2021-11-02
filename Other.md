@@ -2,7 +2,7 @@
 
 ## University of Florida's Stan Mayfield Demonstration Biorefinery
 
-DESCRIPTION.  
+All other files that are relevant but not included elsewhere are provided here.  
 
 ### Table of Contents
 
