@@ -2,7 +2,7 @@
 
 ## University of Florida's Stan Mayfield Demonstration Biorefinery
 
-All other files that are relevant to campaigns but not included elsewhere are provided here.  
+All files that are relevant to campaigns but not included elsewhere are provided here.  
 
 ### Table of Contents
 
