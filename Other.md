@@ -8,19 +8,9 @@ DESCRIPTION.
 
 | Item | Description |
 | ----------- | ----------- |
-| [BiomassTracker.csv](Other/BiomassTracker.csv) | Metso feedstocks only, data for biomass used in steam gun should go in the corresponding folder in laboratory documents. |
-| [BiomassTracker_outdated.xlsx](Other/BiomassTracker_outdated.xlsx) | Metso feedstocks like BiomassTracker.csv but outdated and not revised. |
-| [CommissioningFT9_Schedule.pdf](Other/CommissioningFT9_Schedule.pdf) | Contains . |
-| [Construction_Schedule.pdf](Other/Construction_Schedule.pdf) | Contains . |
-| [ControlsDescription.pdf](Other/ControlsDescription.pdf) | Contains . |
-| [DesignCriteria.pdf](Other/DesignCriteria.pdf) | Contains . |
-| [Emergency_Procedure.pdf](Other/Emergency_Procedure.pdf) | Contains . |
-| [Fermentation_Schedule.pdf](Other/Fermentation_Schedule.pdf) | Contains . |
-| [FirstBreak_Procedure.pdf](Other/FirstBreak_Procedure.pdf) | Contains . |
-| [Gubicza_et_al._2016.pdf](Other/Gubicza_et_al._2016.pdf) | Contains . |
-| [HotWork_Permit.pdf](Other/HotWork_Permit.pdf) | Contains . |
-| [LockOutTagOut_Procedure.pdf](Other/LockOutTagOut_Procedure.pdf) | Contains . |
-| [PretreatmentExperimental_DataSheet.pdf](Other/PretreatmentExperimental_DataSheet.pdf) | Contains . |
-| [SafeWork_Permit.pdf](Other/SafeWork_Permit.pdf) | Contains . |
-| [SafeWork_Plan.pdf](Other/SafeWork_Plan.pdf) | Contains . |
-| [StartUp_Plan.pdf](Other/StartUp_Plan.pdf) | Contains . |
+| [BiomassTracker.csv](Other/BiomassTracker.csv) | Contains a log of biomass batches received at the biorefinery. |
+| [ControlsDescription.pdf](Other/ControlsDescription.pdf) | Contains a description of the process controls at the biorefinery. |
+| [DesignCriteria.pdf](Other/DesignCriteria.pdf) | Contains initial criteria used in process design. |
+| [Gubicza_et_al._2016.pdf](Other/Gubicza_et_al._2016.pdf) | Contains the techno-economic report of the biorefinery. |
+| [PretreatmentExperimental_DataSheet.pdf](Other/PretreatmentExperimental_DataSheet.pdf) | Contains an abbreviated data tracking sheet for pretreatment, propagation, and fermentation. |
+| [ProcessDescription.pdf](Other/ProcessDescription.pdf) | Description of the various areas and processes within the biorefinery. |
