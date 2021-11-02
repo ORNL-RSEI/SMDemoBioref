@@ -2,7 +2,7 @@
 
 ## University of Florida's Stan Mayfield Demonstration Biorefinery
 
-The Stan Mayfield Biorefinery conducted a series of campaigns during the four years it was in operation. Each campaign involved continuous operation and processing of either sugarcane bagasse or sorghum bagasse into cellulosic ethanol, typically lasting 7-10 days in length. A total of 23 campaigns were conducted to assess different variables and ultiamtely optimize the bioprocess. At the end of each campaign, process engineers would provide a summary for internal documentation and grant reporting purposes.  
+The Stan Mayfield Biorefinery conducted a series of campaigns during the four years it was in operation. Each campaign involved continuous operation and processing of either sugarcane bagasse or sorghum bagasse into cellulosic ethanol, typically lasting 7-10 days in length. A total of 23 campaigns were conducted to assess different variables and ultimately optimize the bioprocess. At the end of each campaign, process engineers would provide a summary for internal documentation and grant reporting purposes.  
 
 Campaign Summaries are typically comprised of multiple documents, including:  
 
