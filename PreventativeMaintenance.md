@@ -2,7 +2,7 @@
 
 ## University of Florida's Stan Mayfield Demonstration Biorefinery
 
-The Biorefinery's process engineers were tasked with preventing disruptions in operation and preserving worker safety through diligent surveying and maintenance of the various equipment within the thermochemical pretreatment system. The biomass preatreatment system was a highly complex series of equipment that operated under high pressure with corrosive chemicals, thereby making it prone to malfunction. A series of data tracking tools were developed to be routinely utilized by the process engineers. The data provided herein are not entirely complete, and empty cells are denoted by NA.
+The Biorefinery's process engineers were tasked with preventing disruptions in operation and preserving worker safety through diligent surveying and maintenance of the various equipment within the thermochemical pretreatment system. The biomass pretreatment system was a highly complex series of equipment that operated under high pressure with corrosive chemicals, thereby making it prone to malfunction. A series of data tracking tools were developed to be routinely utilized by the process engineers. The data provided herein are not entirely complete, and empty cells are denoted by NA.
 
 ### Table of Contents
 
@@ -18,7 +18,7 @@ The Biorefinery's process engineers were tasked with preventing disruptions in o
 
 #### Start Up Summary  
 
-Process engineers would record qualitative and quantitative data during the start-up sequence of the pretreatment system while the Biorefinery was in campaign opearation. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
+Process engineers would record qualitative and quantitative data during the start-up sequence of the pretreatment system while the Biorefinery was in campaign operation. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
 Data: [PM01.csv](PM/PM01.csv)  
 
 *Summary Table*
@@ -61,7 +61,7 @@ Data: [PM01.csv](PM/PM01.csv)
 
 #### End of Shift Summary
 
-Process engineers would record qualitative and quantitative data at the end of their shifts while the Biorefinery was in campaign opearation. The data were used by the next shift to understand the status of operation. In addition, the data were helpful in writing Campaign Summaries once the Campaign was complete. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
+Process engineers would record qualitative and quantitative data at the end of their shifts while the Biorefinery was in campaign operation. The data were used by the next shift to understand the status of operation. In addition, the data were helpful in writing Campaign Summaries once the Campaign was complete. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
 Data: [PM02.csv](PM/PM02.csv)  
 
 *Summary Table*
@@ -154,7 +154,7 @@ Data: [PM04.csv](PM/PM04.csv)
 
 #### Boiler Maintenance
 
-Process engineers would routinely perform and log maintenace activities on the Biorefinery's boilers (Fulton & Lattner). This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
+Process engineers would routinely perform and log maintenance activities on the Biorefinery's boilers (Fulton & Lattner). This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
 Data: [PM05.csv](PM/PM05.csv)  
 
 *Summary Table*
@@ -186,7 +186,7 @@ Data: [PM05.csv](PM/PM05.csv)
 
 #### Blowtank Ball Valves
 
-Process engineers would perform and log maintenance activities on the two automated, 8 inch ball vales that were used to discharge pretreated biomass from the pressurized hydrolyzer to the blow tank. This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
+Process engineers would perform and log maintenance activities on the two automated, 8-inch ball vales that were used to discharge pretreated biomass from the pressurized hydrolyzer to the blow tank. This preventative maintenance was performed when the Biorefinery was not in campaign operation.  
 Data: [PM06.csv](PM/PM06.csv)  
 
 *Summary Table*
