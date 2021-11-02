@@ -539,7 +539,7 @@ Goals: Increase ethanol titer during fermentation while maintaining low enzyme d
 
 #### Campaign 18
 
-Log Book: [C18_LB.pdf](CS/LB/18_LB.pdf)  
+Log Book: [C18_LB.pdf](CS/LB/C18_LB.pdf)  
 
 Time Period: 2015-07-13 to 2015-07-15  
 Goals: Increase ethanol titer during fermentation  
