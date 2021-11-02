@@ -9,7 +9,7 @@
 | [CampaignSummaries.md](CampaignSummaries.md) | Contains summaries of campaign operations, including the conditions and outcomes, problems, challenges, and solutions, and a detailed list of actions and notes. |
 | [CS folder](CS) | Contains the files that are described and linked in CampaignSummaries.md. |
 | [Other.md](Other.md) | Contains additional documents. |
-| [Other folder](other) | Contains the files that are described and linked in Other.md. |
+| [Other folder](Other) | Contains the files that are described and linked in Other.md. |
 | [ProcessInstrumentationDiagrams.md](ProcessInstrumentationDiagrams.md) | Contains illustrations of the equipment used for operations. |
 | [PID folder](PID) | Contains the files that are described and linked in ProcessInstrumentationDiagrams.md. |
 | [PreventativeMaintenance.md](PreventativeMaintenance.md) | Contains tables used to track the maintenance routines of process engineers. |
@@ -33,7 +33,7 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 * [Operations Personnel & Media](https://fcrc.ifas.ufl.edu/stan-mayfield-biorefinery/)
 * [Ribbon Cutting Ceremony](https://fcrc.ifas.ufl.edu/media/fcrcifasufledu/smb/SM-Dedication.pdf)
 * [Funding Announcement](https://www.energy.gov/articles/usda-and-doe-award-biomass-research-and-development-grants-reduce-americas-reliance)
-* [Data Usage in Gubicza et al. 2016](other/Gubicza_et_al._2016.pdf)
+* [Data Usage in Gubicza et al. 2016](Other/Gubicza_et_al._2016.pdf)
 
 ### Acknowledgments
 
