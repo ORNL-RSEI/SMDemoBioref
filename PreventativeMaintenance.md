@@ -61,7 +61,7 @@ Data: [PM01.csv](PM/PM01.csv)
 
 #### End of Shift Summary
 
-Process engineers would record qualitative and quantitative data at the end of their shifts while the Biorefinery was in campaign operation. The data were used by the next shift to understand the status of operation. In addition, the data were helpful in writing Campaign Summaries once the Campaign was complete. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch.  
+Process engineers would record qualitative and quantitative data at the end of their shifts while the Biorefinery was in campaign operation. The data were used by the next shift to understand the status of operation. In addition, the data were helpful in writing Campaign Summaries once the Campaign was complete. All temperatures are provided in degrees Fahrenheit, and all pressures are provided in pound per square inch unless described otherwise.  
 Data: [PM02.csv](PM/PM02.csv)  
 
 *Summary Table*
@@ -92,7 +92,7 @@ Data: [PM02.csv](PM/PM02.csv)
 | 23 | Squeezing_Hz | Yes; No; See notes; *Desc.* |
 | 24 | Blow_Tank_Samples | 1, *etc.*; Yes; No |
 | 25 | Percentage_Presteam_Livebottom_Speed | 80, *etc.*; *Desc.* |
-| 26 | Flow_Rate_Test | !!!!!!!!!! |
+| 26 | Flow_Rate_Test | Yes; No; *Desc.* |
 | 27 | Shift_Change_System_Pressure | 149, *etc.*; Shut down; See notes |
 | 28 | Shift_Change_System_Temp | 363.2, *etc.* |
 | 29 | System_Shut_Down_During_Shift | Yes; No |
