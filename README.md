@@ -1,6 +1,6 @@
 # University of Florida's Stan Mayfield Demonstration Biorefinery
 
-## Project Data and Summaries
+## Project Data and Summary
 
 ### Repository Organization
 
