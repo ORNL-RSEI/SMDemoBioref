@@ -59,7 +59,7 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 
 ### Suggested Citation
 
-Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2021. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery. Version 1. Zenodo.
+Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2021. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery. v1.0.0. Zenodo.
 
 ### Contact
 
