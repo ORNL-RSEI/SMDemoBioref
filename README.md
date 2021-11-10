@@ -57,7 +57,7 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 7. [Lonnie Ingram](https://microcell.ufl.edu/people/faculty-directory/ingram/), Professor Emeritus, Microbiology & Cell Science, University of Florida
 8. [W. Joe Sagues](https://www.bae.ncsu.edu/people/wjsagues/), Assistant Professor, Biological & Agricultural Engineering, North Carolina State University
 
-### Suggested Citation
+### Citation
 
 Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2021. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery (v1.0.0) [Dataset]. Zenodo. 
 
