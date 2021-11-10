@@ -33,7 +33,8 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 * [Operations Personnel & Media](https://fcrc.ifas.ufl.edu/stan-mayfield-biorefinery/)
 * [Ribbon Cutting Ceremony](https://fcrc.ifas.ufl.edu/media/fcrcifasufledu/smb/SM-Dedication.pdf)
 * [Funding Announcement](https://www.energy.gov/articles/usda-and-doe-award-biomass-research-and-development-grants-reduce-americas-reliance)
-* [Data Usage in Gubicza et al. 2016](Other/Gubicza_et_al._2016.pdf)
+* [Techno-economic analysis in Rijn et al. 2018](Other/Rijn_et_al._2018.pdf)
+* [Techno-economic analysis in Gubicza et al. 2016](Other/Gubicza_et_al._2016.pdf)
 
 ### Acknowledgments
 
@@ -52,18 +53,17 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 3. [Eulogio Castro](http://www4.ujaen.es/~ecastro/), Professor, Chemical Engineering, University of Jaen
 4. [Vanessa Rondon Berrio](https://www.linkedin.com/in/vanessa-rondon-berrio-biotech/), PhD Student, Biological & Agricultural Engineering, North Carolina State University
 5. [Wilfred Vermerris](https://microcell.ufl.edu/people/faculty-directory/vermerris/), Professor, Microbiology & Cell Science, University of Florida
-6. [K.T. Shanmugam](https://microcell.ufl.edu/people/faculty-directory/shanmugam/), Professor, Microbiology & Cell Science, University of Florida
+6. [K.T. Shanmugam](https://microcell.ufl.edu/people/faculty-directory/shanmugam/), Professor Emeritus, Microbiology & Cell Science, University of Florida
 7. [Lonnie Ingram](https://microcell.ufl.edu/people/faculty-directory/ingram/), Professor Emeritus, Microbiology & Cell Science, University of Florida
 8. [W. Joe Sagues](https://www.bae.ncsu.edu/people/wjsagues/), Assistant Professor, Biological & Agricultural Engineering, North Carolina State University
+
+### Suggested Citation
+
+Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2021. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery. Version 1. Zenodo.
 
 ### Contact
 
 W. Joe Sagues, PhD  
 Former Director of Operations & Senior Process Engineer  
 Stan Mayfield Biorefinery  
-wjsagues@ncsu.edu  
-
-K.T. Shanmugam, PhD  
-Professor of Microbiology & Cell Science  
-University of Florida  
-shan@ufl.edu  
+wjsagues@ncsu.edu 
