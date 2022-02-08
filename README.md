@@ -33,8 +33,8 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 * [Operations Personnel & Media](https://fcrc.ifas.ufl.edu/stan-mayfield-biorefinery/)
 * [Ribbon Cutting Ceremony](https://fcrc.ifas.ufl.edu/media/fcrcifasufledu/smb/SM-Dedication.pdf)
 * [Funding Announcement](https://www.energy.gov/articles/usda-and-doe-award-biomass-research-and-development-grants-reduce-americas-reliance)
-* [Techno-economic analysis in Rijn et al. 2018](Other/Rijn_et_al._2018.pdf)
-* [Techno-economic analysis in Gubicza et al. 2016](Other/Gubicza_et_al._2016.pdf)
+* [Techno-Economic Analysis in Rijn et al. 2018](Other/Rijn_et_al._2018.pdf)
+* [Techno-Economic Analysis in Gubicza et al. 2016](Other/Gubicza_et_al._2016.pdf)
 
 ### Acknowledgments
 
@@ -59,7 +59,7 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 
 ### Citation
 
-Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2021. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery (v1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.5682712
+Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2021. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery (v1.0.2) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.5682712
 
 [![DOI](https://zenodo.org/badge/403975674.svg)](https://zenodo.org/badge/latestdoi/403975674)
 
