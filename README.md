@@ -41,8 +41,8 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 * U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy, Bioenergy Technologies Office (grants DE-PI0000031 and DE-FG36-08GO88142)
 * U.S. Department of Agriculture National Institute of Food & Agriculture (grant 2011-10006-30358)
 * Florida Department of Agriculture & Consumer Services (grant 020650)
-* University of Florida's Deparment of Microbiology & Cell Science
-* University of Florida's Deparment of Agricultural & Biological Engineering
+* University of Florida's Department of Microbiology & Cell Science
+* University of Florida's Department of Agricultural & Biological Engineering
 * University of Florida's Agricultural Experiment Station
 * Georgia Pacific LLC - Foley Cellulose (formerly Buckeye Technologies)
 
@@ -59,7 +59,7 @@ Much of the Biorefinery's research was based on the work of Dr. Lonnie Ingram, U
 
 ### Citation
 
-Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2022. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery (v1.0.1) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.6012478
+Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L. Ingram, and W.J. Sagues. 2022. SMDemoBioref: Data from the University of Florida's Stan Mayfield Demonstration Biorefinery (v1.0.1) [Dataset]. Zenodo. <https://doi.org/10.5281/zenodo.6012478>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6012478.svg)](https://doi.org/10.5281/zenodo.6012478)
 
@@ -68,4 +68,4 @@ Welch, J.N., I. Nieves, E. Castro, V.R. Berrio, W. Vermerris, K.T. Shanmugam, L.
 W. Joe Sagues, PhD  
 Former Director of Operations & Senior Process Engineer  
 Stan Mayfield Biorefinery  
-wjsagues@ncsu.edu 
+wjsagues@ncsu.edu
