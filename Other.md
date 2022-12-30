@@ -1,6 +1,6 @@
 # Other
 
-## University of Florida's Stan Mayfield Demonstration Biorefinery
+## University of Florida Stan Mayfield Demonstration Biorefinery
 
 All files that are relevant to campaigns but not included elsewhere are provided here.  
 
