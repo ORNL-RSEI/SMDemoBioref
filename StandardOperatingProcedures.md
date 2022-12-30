@@ -1,6 +1,6 @@
 # Standard Operating Procedures
 
-## University of Florida's Stan Mayfield Demonstration Biorefinery
+## University of Florida Stan Mayfield Demonstration Biorefinery
 
 Standard Operating Procedures (SOPs) instruct personnel how to methodically complete tasks to ensure that they are performed in a safe and consistent manner.  
 
