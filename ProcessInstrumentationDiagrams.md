@@ -1,6 +1,6 @@
 # Process & Instrumentation Diagrams
 
-## University of Florida's Stan Mayfield Demonstration Biorefinery
+## University of Florida Stan Mayfield Demonstration Biorefinery
 
 Process & Instrumentation Diagrams (PIDs) show how different pieces of equipment are connected internally and externally to various unit operations. PIDs use symbols, flow directions, safety measures, control systems, pressure ratings, and other details to provide process engineers and operators with the information necessary to startup, maintain, troubleshoot, or shutdown various procedures.  
 
